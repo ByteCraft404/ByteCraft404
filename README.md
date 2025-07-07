@@ -43,6 +43,7 @@
 ### 📫 Reach me
 - 📧 **Email:** nyamweyajohn645@gmail.com  
 - 🌐 **Portfolio:** [johnnyamweya.onrender.com](https://johnnyamweya.onrender.com)  
+- 📝 **Blog:** [Coming Soon](#)  
 - 📄 **Resume:** [View Resume](https://your-resume-link.com)
 
 ---
@@ -59,6 +60,13 @@
 
 ---
 
+## 📬 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🌍 Visitors Around the World
 
 <p align="center">
@@ -70,6 +78,8 @@
     <img src="https://profile-counter.glitch.me/nyamweyajohn/count.svg" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyamweyajohn&theme=tokyonight" />
@@ -100,3 +110,14 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nyamweyajohn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- BLOG ACTION WORKFLOW CONFIGURATION -->
+<!-- 
+To enable dynamic blog updates, use this GitHub Action:
+https://github.com/gautamkrishnar/blog-post-workflow
+
+Steps:
+1. Create a Medium or dev.to blog or RSS feed.
+2. Go to your repo's "Actions" tab → "New Workflow".
+3. Use `blog-post-workflow` and customize RSS feed + max posts.
+-->
