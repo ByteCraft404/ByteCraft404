@@ -46,7 +46,7 @@
 - 📝 **Blog:** [Coming Soon](#)  
 - 📄 **Resume:** [View Resume](https://your-resume-link.com)
 
----
+
 
 ### 💼 Explore My Work
 📁 [GitHub Repositories →](https://github.com/nyamweyajohn)
@@ -59,7 +59,7 @@
 - 📱 Building a native Android AI app using Java + Flask  
 - 🌍 Pioneering climate tech for communities in Kenya, Nigeria, and Tanzania
 
----
+
 
 ## 🧩 Fun Fact
 > I think I’m funny…  
@@ -109,7 +109,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ByteCraft404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=ByteCraft404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
