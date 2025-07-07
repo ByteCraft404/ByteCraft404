@@ -7,25 +7,25 @@
 
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+
 
 ### 🔭 I’m currently working on
 - 🚜 **AgriiConnect** – AI-powered farm disease diagnosis & weather insights  
   📍 [View on GitHub](https://github.com/nyamweyajohn/AgriiConnect)
 
----
+
 
 ### 👯 I’m looking to collaborate on
 - 🌊 **FloodAI** – AI-driven flood & drought prediction for East Africa  
   📍 [See the repo](https://github.com/nyamweyajohn/FloodAI)
 
----
+
 
 ### 🤝 I’m looking for help with
 - 🌾 **HoldriFarm** – Smart precision farming platform  
   📍 [Contribute here](https://github.com/nyamweyajohn/HoldriFarm)
 
----
+
 
 ### 🌱 I’m currently learning
 - **Backend**: Node.js, Express, MongoDB  
@@ -33,12 +33,12 @@
 - **Data/ML**: Flask APIs, Random Forest, LSTM  
 - **DevOps**: Docker, Render, GitHub Actions
 
----
+
 
 ### 💬 Ask me about
 `React`, `Vue`, `GSAP`, `Python`, `Hackathons`, `AI for good`
 
----
+
 
 ### 📫 Reach me
 - 📧 **Email:** nyamweyajohn645@gmail.com  
@@ -51,7 +51,7 @@
 ### 💼 Explore My Work
 📁 [GitHub Repositories →](https://github.com/nyamweyajohn)
 
----
+
 
 
 ## 🧠 Highlights
@@ -65,13 +65,13 @@
 > I think I’m funny…  
 > But my console disagrees 😅
 
----
+
 
 ## ✨ Quote I live by
 > *"Silence taught me logic. Curiosity made me code"*
 
 
----
+
 
 ## 🌍 Visitors Around the World
 
@@ -85,7 +85,7 @@
   </a>
 </p>
 
----
+
 
 ### ✍️ Dev Quote I Stand By
 > “Code is poetry, written in silence, powered by curiosity.”  
@@ -111,7 +111,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ByteCraft404&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
