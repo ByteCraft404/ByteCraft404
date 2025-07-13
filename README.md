@@ -64,14 +64,15 @@
 ## 🧩 Fun Fact
 > I think I’m funny…  
 > But my console disagrees 😅
+> I don’t just use containers I think in them. Life throws chaos, I dockerize it. Problems come in layers? Good, I work in stacks.
 
 
 
 ## ✨ Quote I live by
-> *"Silence taught me logic. Curiosity made me code"*
+> *"Silence teaches me logic. Curiosity makes me code"*
 
 ### ✍️ Dev Quote I Stand By
->"I don't write code to impress  I build to disrupt.Think like a scientist, build like an engineer. As a data scientist, I don’t just seek answers I question reality. As a Docker developer, I don’t just build  I package resilience. Train the model, containerize the mission, and deploy like survival depends on it because for me, it does. I don’t have the luxury of guessing I learn from data. I don’t waste time configuring chaos  I orchestrate it. Code is not just my tool, it’s my ticket. Stay lean, stay sharp, and never ship untested. And in this world of bugs, delays, and doubts  I ship anyway." 
+>"Code isn’t written to impress it’s built to disrupt. Think like a scientist, build like an engineer. A data scientist doesn’t just seek answers  they question reality. A Docker developer doesn’t just build they package resilience. Train the model, containerize the mission, and deploy like survival depends on it  because sometimes, it does. There’s no luxury of guessing  everything is learned from data. No time is wasted configuring chaos  it’s orchestrated. Code isn’t just a tool it’s a ticket. Stay lean, stay sharp, and never ship untested. And in this world of bugs, delays, and doubts ship anyway." 
 > <sub>– Nyamweya John</sub>
 
 ### ✍️ Random Dev Quote
