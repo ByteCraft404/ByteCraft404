@@ -72,7 +72,7 @@
 > *"Silence teaches me logic. Curiosity makes me code"*
 
 ### ✍️ Dev Quote I Stand By
->"Code isn’t written to impress it’s built to disrupt. Think like a scientist, build like an engineer. A data scientist doesn’t just seek answers  they question reality. A Docker developer doesn’t just build they package resilience. Train the model, containerize the mission, and deploy like survival depends on it  because sometimes, it does. There’s no luxury of guessing  everything is learned from data. No time is wasted configuring chaos  it’s orchestrated. Code isn’t just a tool it’s a ticket. Stay lean, stay sharp, and never ship untested. And in this world of bugs, delays, and doubts ship anyway." 
+>"Code isn’t written to impress it’s built to disrupt. Think like a scientist, build like an engineer.work like survival depends on it  because sometimes, it does. There’s no luxury of guessing,  everything is learned from data. No time is wasted configuring chaos  it’s orchestrated. Code isn’t just a tool it’s a ticket. Stay lean, stay sharp, and never ship untested. And in this world of bugs, delays, and doubts ship anyway." 
 > <sub>– Nyamweya John</sub>
 
 ### ✍️ Random Dev Quote
