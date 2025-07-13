@@ -70,25 +70,8 @@
 ## ✨ Quote I live by
 > *"Silence taught me logic. Curiosity made me code"*
 
-
-
-
-## 🌍 Visitors Around the World
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=nyamweyajohn&label=VISITORS&countColor=%23263759&style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://profile-counter.glitch.me/nyamweyajohn/count.svg">
-    <img src="https://profile-counter.glitch.me/nyamweyajohn/count.svg" />
-  </a>
-</p>
-
-
-
 ### ✍️ Dev Quote I Stand By
-> “Code is poetry, written in silence, powered by curiosity.”  
+>"I don't write code to impress  I build to disrupt.Think like a scientist, build like an engineer. As a data scientist, I don’t just seek answers I question reality. As a Docker developer, I don’t just build  I package resilience. Train the model, containerize the mission, and deploy like survival depends on it because for me, it does. I don’t have the luxury of guessing I learn from data. I don’t waste time configuring chaos  I orchestrate it. Code is not just my tool, it’s my ticket. Stay lean, stay sharp, and never ship untested. And in this world of bugs, delays, and doubts  I ship anyway." 
 > <sub>– Nyamweya John</sub>
 
 ### ✍️ Random Dev Quote
